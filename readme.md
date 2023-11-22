@@ -1,7 +1,7 @@
 # Memory game
 **Deadline**: 1a December 17:00.
 
-Examiniationen för kursen Javascript del 1 är att skapa ett memoryspel i grupper om 3. Bedömningen sker via inspelade videopresentationer, **se bedömning längre ner**.
+Examiniationen för kursen Javascript del 1 är att skapa ett memoryspel i grupper om max 3 (går bra att köra själv). Bedömningen sker via inspelade videopresentationer, **se bedömning längre ner**.
 
 Se pdf:en "[MemoryGameRulesAndDesign](MemoryGameRulesAndDesign.pdf)" för design och spelregler! Obs. Allt under wireframes är **endast** designförslag och är öppen för omtolkning.
 
